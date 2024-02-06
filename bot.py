@@ -5,7 +5,7 @@ import random
 import time
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton, ReplyKeyboardRemove
 
-token = "6726977458:AAE8ROgDRDYz_UuhskOvWkX5phdFcSWXVBE"
+token = ""
 bot = telebot.TeleBot(token)
 
 num1 = random.randint(1, 10)
